@@ -4,3 +4,4 @@
 - [ziglint](https://github.com/nektro/ziglint) @ GitHub
 - [magnolia-desktop](https://git.sr.ht/~nektro/magnolia-desktop) @ sr.ht
 - [wifilylinux](https://git.sr.ht/~nektro/wifilylinux) @ sr.ht
+- [ziginfra](https://github.com/nektro/ziginfra) @ GitHub
